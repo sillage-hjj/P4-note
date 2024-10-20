@@ -4,6 +4,7 @@ bit<n> 大小为n的无符号整型(字节串)
 bit 和bit<1>一样
 int<n> 大小为n的有符号整型
 varbit<n> 变长字节串
+
 ## header type标头类型
 有顺序的成员集合
 Byte-aligned 数据对齐
